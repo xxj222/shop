@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ayit.my.shop.web.api.dao.ITbUserDao">
+    <sql id="tbUser">
+          a.id,
+          a.username,
+          a.password,
+          a.phone,
+          a.email,
+          a.created,
+          a.updated
+    </sql>
+
+    <select id="login" resultType="TbUser">
+        select
+        <include refid="tbUser"/>
+        from tb_user As a
+        where
+        username = #{username}
+        OR phone = #{username}
+        OR email = #{username}
+    </select>
+    <insert id="insert">
+         INSERT INTO tb_user (
+          id,
+          username,
+          password,
+          phone,
+          email,
+          created,
+          updated
+        )
+        VALUES
+          (
+            #{id},
+            #{username},
+            #{password},
+            #{phone},
+            #{email},
+            #{created},
+            #{updated}
+          )
+
+    </insert>
+</mapper>

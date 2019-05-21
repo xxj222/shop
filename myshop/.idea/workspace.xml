@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="my-shop-web-ui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a692b81-47a7-4c29-b731-fadc29fbe9a6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-commons/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web-admin/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-domain/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web-ui/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-external/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myshop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/EmailUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/testVue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/js/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/impl/TbUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="76" column="86" selection-start-line="76" selection-start-column="86" selection-end-line="76" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbContentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-dependencies/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-external/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="69" column="81" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userDataTable</find>
+      <find>TbContent</find>
+      <find>user</find>
+      <find>modal-detail</find>
+      <find>initShowDetail</find>
+      <find>dropzFile</find>
+      <find>./</find>
+      <find>initDropzone</find>
+      <find>up</find>
+      <find>u</find>
+      <find>lunbo</find>
+      <find>登录</find>
+      <find>images/</find>
+      <find>login</find>
+      <find>deng</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>/static/images/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/resources/mapper/tbContent.xml" />
+        <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/persistence/BaseResult.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/resources/myshop.properties" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/resources/myshop.properties" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/views/index.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/css/index.css" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/css/ziy.css" />
+        <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/HttpClient.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/dto/tbContent.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/web/controller/ContentController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/dto/TbContentDto.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/dto/TbContent.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/ContentAPI.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/js/index.js" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/content_from.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/web/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbContentController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/dto/TbUserDto.java" />
+        <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/MapperUtil.java" />
+        <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-content-kaptchar.xml" />
+        <option value="$PROJECT_DIR$/my-shop-external/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/KaptchaCon.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-content-kaptcha.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/KaptchaController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/resources/mapper/tbUserMapper.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/dao/ITbUserDao.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/ITbUserService.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/dto/TbUser.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/API.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/UserAPI.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/register.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbUserController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/impl/TbUserService.java" />
+        <option value="$PROJECT_DIR$/my-shop-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/EmailUtils.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/testVue.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/conf/settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-commons" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-external" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="805" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-external" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-external" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558253752963" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-shop-external/libs" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/static/assets/plugins" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/js" />
+      <recent name="$PROJECT_DIR$/my-shop-web-api/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/static" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/resources" />
+      <recent name="$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ayit.my.shop.commons.utils" />
+      <recent name="com.ayit.my.shop.domain" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ayit.my.shop.web.admin.abstracts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EmailUtils">
+    <configuration name="EmailUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ayit.my.shop.utils.EmailUtils" />
+      <module name="my-shop-commons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayit.my.shop.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ayit.my.shop.utils.HttpClientUtil" />
+      <module name="my-shop-commons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayit.my.shop.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mapper in my-shop-web-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mapper" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="header.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/druid/WEB-INF/includes/header.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="jquery-ztree" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/static/assets/plugins/jquery-ztree" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 7.0.92" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="my-shop-web-admin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myshop_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50847" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="59641" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="my-shop-web-admin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="my-shop-web-api" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="my-shop-web-api:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myshop_4" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1100" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52877" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="52878" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="my-shop-web-api:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="my-shop-web-ui" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="my-shop-web-ui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myshop_5" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1101" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53432" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="53433" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="my-shop-web-ui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HttpClientUtil" />
+      <item itemvalue="Application.EmailUtils" />
+      <item itemvalue="JavaScript Debug.header.jsp" />
+      <item itemvalue="JUnit.mapper in my-shop-web-api" />
+      <item itemvalue="PHPUnit.jquery-ztree" />
+      <item itemvalue="Tomcat Server.my-shop-web-ui" />
+      <item itemvalue="Tomcat Server.my-shop-web-api" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.92" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmailUtils" />
+        <item itemvalue="Application.HttpClientUtil" />
+        <item itemvalue="JUnit.mapper in my-shop-web-api" />
+        <item itemvalue="PHPUnit.jquery-ztree" />
+        <item itemvalue="JavaScript Debug.header.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a692b81-47a7-4c29-b731-fadc29fbe9a6" name="Default Changelist" comment="" />
+      <created>1555674820771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555674820771</updated>
+      <workItem from="1555674823615" duration="5884000" />
+      <workItem from="1556019443351" duration="3336000" />
+      <workItem from="1556022885933" duration="11100000" />
+      <workItem from="1556090541534" duration="14120000" />
+      <workItem from="1556496513011" duration="31889000" />
+      <workItem from="1556589275253" duration="18806000" />
+      <workItem from="1556670870906" duration="14618000" />
+      <workItem from="1556702310751" duration="9040000" />
+      <workItem from="1556758152419" duration="14855000" />
+      <workItem from="1556801053969" duration="868000" />
+      <workItem from="1556845013310" duration="7370000" />
+      <workItem from="1556864493593" duration="18631000" />
+      <workItem from="1556934674114" duration="8932000" />
+      <workItem from="1556949454064" duration="499000" />
+      <workItem from="1556950391772" duration="2819000" />
+      <workItem from="1556966479009" duration="5774000" />
+      <workItem from="1557015874937" duration="6089000" />
+      <workItem from="1557025769632" duration="1964000" />
+      <workItem from="1557104596133" duration="610000" />
+      <workItem from="1557126133570" duration="124000" />
+      <workItem from="1557187890441" duration="13900000" />
+      <workItem from="1557214681450" duration="8229000" />
+      <workItem from="1557274694772" duration="15601000" />
+      <workItem from="1557310209677" duration="6070000" />
+      <workItem from="1557322324256" duration="1951000" />
+      <workItem from="1557537995957" duration="898000" />
+      <workItem from="1557878974636" duration="5959000" />
+      <workItem from="1557967715796" duration="20321000" />
+      <workItem from="1558066429172" duration="19151000" />
+      <workItem from="1558156481087" duration="12000" />
+      <workItem from="1558161853490" duration="11198000" />
+      <workItem from="1558225745898" duration="1043000" />
+      <workItem from="1558233531071" duration="1566000" />
+      <workItem from="1558253095365" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_testSelectById - 2019.04.24 at 18h 56m 22s.xml">
+      <configuration name="UserServiceTest.testSelectById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_updateTest - 2019.04.24 at 18h 56m 35s.xml">
+      <configuration name="UserServiceTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_updateTest - 2019.04.24 at 18h 57m 36s.xml">
+      <configuration name="UserServiceTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_updateTest - 2019.04.24 at 19h 03m 15s.xml">
+      <configuration name="UserServiceTest.updateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_likeSelectTest - 2019.04.24 at 19h 07m 52s.xml">
+      <configuration name="UserServiceTest.likeSelectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_likeSelectTest - 2019.04.24 at 19h 08m 30s.xml">
+      <configuration name="UserServiceTest.likeSelectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_likeSelectTest - 2019.04.24 at 19h 09m 07s.xml">
+      <configuration name="UserServiceTest.likeSelectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_likeSelectTest - 2019.04.24 at 19h 39m 55s.xml">
+      <configuration name="UserServiceTest.likeSelectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testUserService - 2019.04.29 at 13h 58m 44s.xml">
+      <configuration name="UserServiceTest.testUserService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testUserService - 2019.04.29 at 14h 05m 09s.xml">
+      <configuration name="UserServiceTest.testUserService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283751000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="805" y="23" width="1440" height="807" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49377593" visible="true" weight="0.27753934" />
+      <window_info id="Structure" order="1" sideWeight="0.5062937" side_tool="true" weight="0.2546495" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5070994" side_tool="true" weight="0.23017408" />
+      <window_info id="Web" order="7" sideWeight="0.5070994" side_tool="true" weight="0.23017408" />
+      <window_info id="JRebel" order="8" sideWeight="0.5062241" side_tool="true" weight="0.23017408" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21052632" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.406993" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.683733" weight="0.14265734" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32823366" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3277311" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3972028" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.66713285" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.44635195" weight="0.04195804" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.5398601" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.316267" side_tool="true" weight="0.57342654" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32952926" />
+      <window_info anchor="bottom" id="Thumbnails" order="19" sideWeight="0.49928468" weight="0.32952926" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.0246085" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.06723891" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49882904" visible="true" weight="0.047925606" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32860184" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="310" height="608" id="Documentation" order="9" sideWeight="0.50117093" side_tool="true" weight="0.021459227" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297568" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49609375" visible="true" weight="0.27896994" />
+      <window_info id="Structure" order="1" sideWeight="0.50390625" side_tool="true" weight="0.23319027" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50390625" side_tool="true" weight="0.23319027" />
+      <window_info id="Web" order="7" sideWeight="0.50390625" side_tool="true" weight="0.23319027" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21052632" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45391062" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.69166666" weight="0.30813125" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32823366" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3282123" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32740742" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.29224378" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49252802" visible="true" weight="0.05706134" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.06847361" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.30833334" side_tool="true" weight="0.36426592" />
+      <window_info anchor="bottom" id="Problems" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.0246085" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49882904" visible="true" weight="0.05865522" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32860184" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="310" height="608" id="Documentation" order="9" sideWeight="0.50117093" side_tool="true" weight="0.021459227" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297568" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbUserController.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/HttpClientUtil.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/LoginController.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/UserAPI.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/HttpClientUtil.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((TbContentCategoryImpl)contentCategoryService).contentCategoryDao" custom="com.ayit.my.shop.web.admin.service.Impl.TbContentCategoryImpl" />
+        <watch expression="((ServletInvocableHandlerMethod)this).bean" custom="org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/ITbContectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar!/org/apache/http/message/AbstractHttpMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/MapperUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/dto/TbContentDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/ContentAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/client/HttpClientBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="e#6971#6972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/web/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="46" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1164.0323119588743" y="712.0">com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT</node>
+            <node x="455.67480384199075" y="603.0">com.ayit:my-shop-domain:jar:1.0.0-SNAPSHOT</node>
+            <node x="1056.5323119588743" y="524.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT</node>
+            <node x="272.6989786255408" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE</node>
+            <node x="1304.1573119588743" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="1218.7823119588743" y="415.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="1125.1573119588743" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="1094.5323119588743" y="415.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18</node>
+            <node x="634.6989786255408" y="415.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final</node>
+            <node x="515.6989786255408" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="650.6989786255408" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="787.6989786255408" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/com.fasterxml:classmate:jar:1.3.1</node>
+            <node x="990.0323119588742" y="336.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="927.1573119588742" y="257.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
+            <node x="833.1520765692635" y="0.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2</node>
+            <node x="1046.0323119588743" y="257.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-codec:commons-codec:jar:1.10</node>
+            <node x="868.9489786255408" y="415.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:fluent-hc:jar:4.5.5</node>
+            <node x="977.9489786255408" y="415.0">com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpmime:jar:4.5.5</node>
+            <node x="1550.375" y="415.0">org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="234.9489786255408" y="524.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE</node>
+            <node x="192.74064529220743" y="257.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE</node>
+            <node x="171.49064529220743" y="168.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE</node>
+            <node x="242.3604099025968" y="79.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE</node>
+            <node x="350.6989786255408" y="257.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-expression:jar:4.3.17.RELEASE</node>
+            <node x="137.11564529220743" y="415.0">org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE</node>
+            <node x="1089.0323119588743" y="603.0">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="1480.375" y="415.0">javax.servlet:jstl:jar:1.2</node>
+            <node x="0.0" y="168.0">org.springframework:spring-test:jar:4.3.17.RELEASE</node>
+            <node x="124.4489786255408" y="603.0">junit:junit:jar:4.12</node>
+            <node x="92.9489786255408" y="524.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="1659.875" y="603.0">commons-fileupload:commons-fileupload:jar:1.3.2</node>
+            <node x="1684.375" y="524.0">commons-fileupload:commons-fileupload:jar:1.3.2/commons-io:commons-io:jar:2.2</node>
+            <node x="1343.4073119588743" y="603.0">org.springframework:spring-aspects:jar:4.3.17.RELEASE</node>
+            <node x="1346.4073119588743" y="524.0">org.springframework:spring-aspects:jar:4.3.17.RELEASE/org.aspectj:aspectjweaver:jar:1.8.9</node>
+            <node x="1242.4073119588743" y="603.0">com.google.code.kaptcha:kaptcha:jar:2.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE">
+              <point x="-10.583333333333258" y="-14.5" />
+              <point x="287.86564529220755" y="484.0" />
+              <point x="258.0739786255408" y="484.0" />
+              <point x="258.0739786255408" y="311.0" />
+              <point x="242.74064529220743" y="311.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="50.5" y="128.0" />
+              <point x="249.78898133116815" y="128.0" />
+              <point x="-44.57142857142867" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="-49.66666666666663" y="-14.5" />
+              <point x="659.5323119588742" y="385.0" />
+              <point x="573.1989786255408" y="385.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT">
+              <point x="0.0" y="-14.5" />
+              <point x="1231.5323119588743" y="578.0" />
+              <point x="1171.2823119588743" y="578.0" />
+              <point x="38.25" y="14.5" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE">
+              <point x="-52.91666666666674" y="-14.5" />
+              <point x="245.53231195887406" y="504.0" />
+              <point x="100.30938852813767" y="504.0" />
+              <point x="100.30938852813767" y="217.0" />
+              <point x="185.74064529220743" y="217.0" />
+              <point x="-42.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3.2">
+              <point x="61.36363636363626" y="-14.5" />
+              <point x="1292.8959483225103" y="692.0" />
+              <point x="1738.875" y="692.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="com.google.code.kaptcha:kaptcha:jar:2.3">
+              <point x="12.272727272727252" y="-14.5" />
+              <point x="1243.8050392316013" y="652.0" />
+              <point x="1282.9073119588743" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE">
+              <point x="38.25" y="-14.5" />
+              <point x="226.36564529220743" y="395.0" />
+              <point x="293.36564529220755" y="395.0" />
+              <point x="-41.33333333333326" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="25.0" y="-14.5" />
+              <point x="267.74064529220743" y="237.0" />
+              <point x="297.86564529220743" y="237.0" />
+              <point x="297.86564529220743" y="148.0" />
+              <point x="294.3604099025968" y="148.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-domain:jar:1.0.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE">
+              <point x="-34.5" y="-14.5" />
+              <point x="490.17480384199075" y="578.0" />
+              <point x="330.1989786255408" y="578.0" />
+              <point x="31.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.5">
+              <point x="69.5454545454545" y="-14.5" />
+              <point x="1202.5777665043288" y="504.0" />
+              <point x="1583.375" y="504.0" />
+              <point x="-33.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+              <point x="36.818181818181756" y="-14.5" />
+              <point x="1268.3504937770558" y="672.0" />
+              <point x="1517.875" y="672.0" />
+              <point x="12.5" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="-49.09090909090901" y="-14.5" />
+              <point x="1182.4414028679653" y="682.0" />
+              <point x="153.9489786255408" y="682.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:fluent-hc:jar:4.5.5">
+              <point x="-41.72727272727275" y="-14.5" />
+              <point x="1091.3050392316013" y="484.0" />
+              <point x="913.4489786255408" y="484.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-14.5" />
+              <point x="1035.5323119588743" y="54.0" />
+              <point x="953.1520765692635" y="54.0" />
+              <point x="48.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-expression:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="422.6989786255408" y="138.0" />
+              <point x="324.0746956168826" y="138.0" />
+              <point x="29.71428571428578" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE">
+              <point x="-25.0" y="-14.5" />
+              <point x="217.74064529220743" y="237.0" />
+              <point x="242.74064529220743" y="237.0" />
+              <point x="14.25" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="org.springframework:spring-aspects:jar:4.3.17.RELEASE">
+              <point x="24.545454545454504" y="-14.5" />
+              <point x="1256.0777665043288" y="662.0" />
+              <point x="1405.9073119588743" y="662.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="228.49064529220743" y="148.0" />
+              <point x="279.5032670454539" y="148.0" />
+              <point x="-14.85714285714289" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5">
+              <point x="27.818181818181756" y="-14.5" />
+              <point x="1160.8504937770558" y="474.0" />
+              <point x="1288.2823119588743" y="474.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final">
+              <point x="-55.636363636363626" y="-14.5" />
+              <point x="1077.3959483225105" y="494.0" />
+              <point x="709.1989786255408" y="494.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE">
+              <point x="-31.75" y="-14.5" />
+              <point x="266.6989786255408" y="494.0" />
+              <point x="188.11564529220743" y="494.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:fluent-hc:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2">
+              <point x="-22.25" y="-14.5" />
+              <point x="891.1989786255408" y="54.0" />
+              <point x="905.1520765692635" y="54.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE">
+              <point x="-46.5" y="-14.5" />
+              <point x="288.1989786255408" y="311.0" />
+              <point x="276.0739786255407" y="311.0" />
+              <point x="33.33333333333326" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-codec:commons-codec:jar:1.10">
+              <point x="30.333333333333343" y="-14.5" />
+              <point x="1065.8656452922075" y="311.0" />
+              <point x="1113.5323119588743" y="311.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE">
+              <point x="10.583333333333258" y="-14.5" />
+              <point x="309.03231195887406" y="484.0" />
+              <point x="334.6989786255408" y="484.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="commons-fileupload:commons-fileupload:jar:1.3.2" target="commons-fileupload:commons-fileupload:jar:1.3.2/commons-io:commons-io:jar:2.2">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-aop:jar:4.3.17.RELEASE">
+              <point x="12.75" y="-14.5" />
+              <point x="201.6989786255408" y="311.0" />
+              <point x="209.40731195887417" y="311.0" />
+              <point x="-33.33333333333326" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="-38.25" y="-14.5" />
+              <point x="150.11564529220743" y="138.0" />
+              <point x="264.64612418831103" y="138.0" />
+              <point x="-29.71428571428578" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpmime:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="0.0" y="-14.5" />
+              <point x="1022.9489786255408" y="395.0" />
+              <point x="1035.5323119588743" y="395.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-aspects:jar:4.3.17.RELEASE" target="org.springframework:spring-aspects:jar:4.3.17.RELEASE/org.aspectj:aspectjweaver:jar:1.8.9">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5">
+              <point x="13.909090909090878" y="-14.5" />
+              <point x="1146.941402867965" y="464.0" />
+              <point x="1182.0323119588743" y="464.0" />
+              <point x="1182.0323119588743" y="395.0" />
+              <point x="1164.9073119588743" y="395.0" />
+              <point x="-39.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE">
+              <point x="-15.5" y="-14.5" />
+              <point x="319.1989786255408" y="311.0" />
+              <point x="316.8239786255408" y="311.0" />
+              <point x="316.8239786255408" y="227.0" />
+              <point x="271.24064529220743" y="227.0" />
+              <point x="42.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpmime:jar:4.5.5">
+              <point x="-27.81818181818187" y="-14.5" />
+              <point x="1105.2141301406923" y="474.0" />
+              <point x="1022.9489786255408" y="474.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-web:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-beans:jar:4.3.17.RELEASE">
+              <point x="-12.75" y="-14.5" />
+              <point x="175.36564529220743" y="395.0" />
+              <point x="182.24064529220743" y="395.0" />
+              <point x="182.24064529220743" y="227.0" />
+              <point x="214.24064529220743" y="227.0" />
+              <point x="-14.25" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE">
+              <point x="-69.54545454545462" y="-14.5" />
+              <point x="1063.4868574134196" y="504.0" />
+              <point x="604.2638392857141" y="504.0" />
+              <point x="604.2638392857141" y="395.0" />
+              <point x="376.03231195887406" y="395.0" />
+              <point x="41.33333333333326" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/com.fasterxml:classmate:jar:1.3.1">
+              <point x="49.666666666666686" y="-14.5" />
+              <point x="758.8656452922075" y="395.0" />
+              <point x="834.1989786255408" y="395.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="15.5" y="-14.5" />
+              <point x="350.1989786255408" y="311.0" />
+              <point x="340.1989786255408" y="311.0" />
+              <point x="340.1989786255408" y="148.0" />
+              <point x="309.2175527597397" y="148.0" />
+              <point x="14.85714285714289" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9">
+              <point x="-30.33333333333333" y="-14.5" />
+              <point x="1005.1989786255408" y="311.0" />
+              <point x="969.6573119588742" y="311.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.springframework:spring-context:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-expression:jar:4.3.17.RELEASE">
+              <point x="46.5" y="-14.5" />
+              <point x="381.1989786255408" y="311.0" />
+              <point x="386.6989786255408" y="311.0" />
+              <point x="-36.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5">
+              <point x="-34.75" y="-14.5" />
+              <point x="1253.5323119588743" y="395.0" />
+              <point x="1244.4073119588743" y="395.0" />
+              <point x="39.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.3.17.RELEASE">
+              <point x="-61.36363636363649" y="-14.5" />
+              <point x="1170.1686755952378" y="692.0" />
+              <point x="50.5" y="692.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-14.5" />
+              <point x="294.3604099025968" y="54.0" />
+              <point x="857.1520765692635" y="54.0" />
+              <point x="-48.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="javax.servlet:javax.servlet-api:jar:3.1.0">
+              <point x="-12.272727272727252" y="-14.5" />
+              <point x="1219.2595846861468" y="652.0" />
+              <point x="1155.0323119588743" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE">
+              <point x="-36.818181818181756" y="-14.5" />
+              <point x="1194.7141301406923" y="672.0" />
+              <point x="275.9489786255408" y="672.0" />
+              <point x="275.9489786255408" y="578.0" />
+              <point x="266.6989786255408" y="578.0" />
+              <point x="-31.75" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:fluent-hc:jar:4.5.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="22.25" y="-14.5" />
+              <point x="935.6989786255408" y="395.0" />
+              <point x="1005.1989786255408" y="395.0" />
+              <point x="-30.33333333333333" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-expression:jar:4.3.17.RELEASE">
+              <point x="31.75" y="-14.5" />
+              <point x="330.1989786255408" y="494.0" />
+              <point x="458.6989786255408" y="494.0" />
+              <point x="36.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-domain:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT">
+              <point x="34.5" y="-14.5" />
+              <point x="559.1748038419908" y="578.0" />
+              <point x="1094.7823119588743" y="578.0" />
+              <point x="-38.25" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.5">
+              <point x="-13.909090909090878" y="-14.5" />
+              <point x="1119.1232210497833" y="464.0" />
+              <point x="1078.4489786255408" y="464.0" />
+              <point x="1078.4489786255408" y="395.0" />
+              <point x="1065.8656452922075" y="395.0" />
+              <point x="30.333333333333314" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/org.hibernate:hibernate-validator:jar:5.3.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="41.72727272727275" y="-14.5" />
+              <point x="1174.7595846861468" y="484.0" />
+              <point x="1382.7823119588743" y="484.0" />
+              <point x="1382.7823119588743" y="395.0" />
+              <point x="1388.1573119588743" y="395.0" />
+              <point x="28.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.5">
+              <point x="49.09090909090901" y="-14.5" />
+              <point x="1280.6232210497833" y="682.0" />
+              <point x="1649.375" y="682.0" />
+              <point x="33.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT" target="com.ayit:my-shop-domain:jar:1.0.0-SNAPSHOT">
+              <point x="-24.545454545454504" y="-14.5" />
+              <point x="1206.9868574134198" y="662.0" />
+              <point x="524.6748038419908" y="662.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+              <point x="55.636363636363626" y="-14.5" />
+              <point x="1188.6686755952378" y="494.0" />
+              <point x="1492.875" y="494.0" />
+              <point x="-12.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.17.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.17.RELEASE/org.springframework:spring-core:jar:4.3.17.RELEASE">
+              <point x="52.91666666666674" y="-14.5" />
+              <point x="351.36564529220755" y="504.0" />
+              <point x="505.1989786255408" y="504.0" />
+              <point x="505.1989786255408" y="128.0" />
+              <point x="338.9318384740255" y="128.0" />
+              <point x="44.57142857142867" y="14.5" />
+            </edge>
+            <edge source="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="com.ayit:my-shop-commons:jar:1.0.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="34.75" y="-14.5" />
+              <point x="1323.0323119588743" y="395.0" />
+              <point x="1332.1573119588743" y="395.0" />
+              <point x="-28.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.25931928687196115" x="915.0" y="376.0" />
+          <SelectedNodes>
+            <node>com.ayit:my-shop-web-ui:1.0.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/KaptchaCon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-context-kaptcha.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/resources/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="35" column="63" lean-forward="true" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/KaptchaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/js/jquery-1.11.3.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../soft/apache-maven-3.6.1/repo/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/mapper/tbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/resources/mapper/tbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/dao/ITbUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/service/ITbUserServicve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/ITbUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/ayit/my/shop/web/admin/service/Impl/TbUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/API.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/dto/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/dto/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/api/UserAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/java/com/ayit/my/shop/web/ui/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="87" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/service/impl/TbUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="76" column="86" selection-start-line="76" selection-start-column="86" selection-end-line="76" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-api/src/main/java/com/ayit/my/shop/web/api/web/Controller/tbContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-external/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="81" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/ayit/my/shop/utils/EmailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/static/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-ui/src/main/webapp/WEB-INF/views/testVue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>my-shop-web-admin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>my-shop-web-admin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.commons:commons-lang3:3.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
